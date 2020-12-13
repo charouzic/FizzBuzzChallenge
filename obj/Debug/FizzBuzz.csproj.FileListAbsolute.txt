@@ -1,0 +1,6 @@
+/Users/viki/Desktop/c#/practising/FizzBuzz/bin/Debug/FizzBuzz.exe
+/Users/viki/Desktop/c#/practising/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/viki/Desktop/c#/practising/FizzBuzz/obj/Debug/FizzBuzz.csprojAssemblyReference.cache
+/Users/viki/Desktop/c#/practising/FizzBuzz/obj/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/c#/practising/FizzBuzz/obj/Debug/FizzBuzz.exe
+/Users/viki/Desktop/c#/practising/FizzBuzz/obj/Debug/FizzBuzz.pdb
